@@ -6,6 +6,8 @@
     - -> Font: (Save as: Mine), (Primary font: Consolas), (Size: 15)
      - -> General -> Text -> Default text: (Background: #C7EDCC)
      - -> Console Font: (Size: 16) 
+- Editor -> Code Style
+  - -> Javascript & Typescript - imports - Use file extension in module name
 
 - Keymap: Mac OS X 10.5+
 
